@@ -1,0 +1,14 @@
+1	The	DT	_	_
+2	company	NN	_	_
+3	had	VBD	_	_
+4	sought	VBN	_	_
+5	increases	NNS	_	_
+6	totaling	VBG	_	_
+7	$	$	_	_
+8	80.3	CD	_	_
+9	million	CD	_	_
+10	,	,	_	_
+11	or	CC	_	_
+12	22	CD	_	_
+13	%	NN	_	_
+14	.	.	_	_
